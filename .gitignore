@@ -1,0 +1,27 @@
+# Compiled files
+/target/
+
+# Rust/Cargo build files
+Cargo.lock
+Cargo.toml.orig
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swm
+*.bak
+*~
+
+# Generated documentation
+/target/doc/
+
+# Generated files from `cargo doc`
+doc/
+
+# Crates.io files
+crates.toml
+
+# Log files
+*.log
